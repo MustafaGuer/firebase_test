@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-test-app-fb80d": {
+      "hosting": {
+        "fire_test_app": [
+          "fire-test-app-fb80d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-test-app-fb80d"
+  }
+}
